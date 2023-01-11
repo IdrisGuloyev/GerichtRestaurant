@@ -2,7 +2,7 @@
     position: relative;
 }
 
-.custom__button {
+.custom__button  {
     background-color: var(--color-golden);
 }
 

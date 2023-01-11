@@ -9,6 +9,7 @@
     text-transform: uppercase;
     line-height: 117px;
     font-size: 90px;
+
 }
 
 .app__header-img img {
@@ -16,5 +17,5 @@
 }
 
 .custom__button {
-    background-color: var(--color-golden);
+   background-color: var(--color-golden)
 }
